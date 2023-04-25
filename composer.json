@@ -1,5 +1,5 @@
 {
-    "name": "masmerise/livewire-toaster",
+    "name": "ingress-it-solutions/livewire-toaster",
     "description": "Beautiful toast notifications for Laravel / Livewire.",
     "keywords": [
         "alert",
@@ -8,12 +8,12 @@
         "toast",
         "toaster"
     ],
-    "homepage": "https://github.com/masmerise/livewire-toaster",
+    "homepage": "https://github.com/ingress-it-solutions/livewire-toaster",
     "license": "MIT",
     "authors": [
         {
-            "name": "Muhammed Sari",
-            "email": "support@muhammedsari.me",
+            "name": "Ingress Team",
+            "email": "support@ingressit.com",
             "role": "Developer"
         }
     ],
